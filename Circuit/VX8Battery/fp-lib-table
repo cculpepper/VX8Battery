@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "VX8Battery")(type "KiCad")(uri "${KIPRJMOD}/Library/VX8Battery.pretty")(options "")(descr ""))
+)

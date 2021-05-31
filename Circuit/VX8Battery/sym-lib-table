@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "VX8Battery")(type "KiCad")(uri "${KIPRJMOD}/Library/VX8Battery.kicad_sym")(options "")(descr ""))
+)
